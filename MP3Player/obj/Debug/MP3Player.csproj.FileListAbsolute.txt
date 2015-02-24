@@ -1,0 +1,10 @@
+C:\Users\Mohamed\AppData\Local\Temporary Projects\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\AppData\Local\Temporary Projects\MP3Player\bin\Debug\MP3Player.dll
+C:\Users\Mohamed\AppData\Local\Temporary Projects\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Mohamed\AppData\Local\Temporary Projects\MP3Player\obj\Debug\MP3Player.dll
+C:\Users\Mohamed\AppData\Local\Temporary Projects\MP3Player\obj\Debug\MP3Player.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\MP3Player\MP3Player\bin\Debug\MP3Player.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\MP3Player\MP3Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\MP3Player\MP3Player\obj\Debug\MP3Player.dll
+C:\Users\Mohamed\Documents\Visual Studio 2008\Projects\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
